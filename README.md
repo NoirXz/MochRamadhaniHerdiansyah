@@ -17,9 +17,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+![light](https://raw.githubusercontent.com/NoirXz/NoirXz/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![dark](https://raw.githubusercontent.com/NoirXz/NoirXz/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
 
 </td>
 <td valign="top" width="50%">
